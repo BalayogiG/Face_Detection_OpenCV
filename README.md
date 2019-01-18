@@ -1,5 +1,5 @@
 # Face_Detection_OpenCV
-<b>A simple face detection using OpenCV</b><br>
+<b>A simple face detection using OpenCV</b><br><br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/180px-OpenCV_Logo_with_text_svg_version.svg.png"><br><br>
 <b>Introduction to OpenCV-Python Tutorials</b><br>
 <b>OpenCV</b><br><br>
@@ -30,4 +30,4 @@ The Input image is,
 <br><br>
 The output of the face detection is, 
 <br><br>
-<img src="">
+<img src="/result.jpg">
